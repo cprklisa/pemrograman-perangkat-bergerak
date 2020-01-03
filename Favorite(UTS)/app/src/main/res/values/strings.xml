@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyFavorite</string>
+    <string name="about_me">about_me</string>
+    <string name="favorite_name">Favorite</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Fahry S Putra</item>
+        <item>Wildanur Fadhilah</item>
+        <item>Triretno Mutiara</item>
+        <item>Yolla Yuliana</item>
+        <item>Dony Haryono</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Fahry S Putra adalah atlet voly favorite saya karena didalam penampilan dan cara bermainnya dalam bermain voly sangat terlihat mengagumkan, dah Fahry S Putra termasuk dalam atlit voly indonesia yang selalu berlaga di acara voly terbesar seperti proliga, sea games dan lebih banya lagi.</item>
+        <item>Wildanur Fadilah adalah atlet voly favorite saya karena didalam penampilan dan cara bermainnya dalam bermain voly sangat terlihat mengagumkan, dah Wildanur Fadhilah termasuk dalam atlit voly indonesia yang selalu berlaga di acara voly terbesar seperti proliga, sea games dan lebih banya lagi.</item>
+        <item>Triretno Mutiara adalah atlet voly favorite saya karena didalam penampilan dan cara bermainnya dalam bermain voly sangat terlihat mengagumkan, dah Triretno Mutiara termasuk dalam atlit voly indonesia yang selalu berlaga di acara voly terbesar seperti proliga, sea games dan lebih banya lagi.</item>
+        <item>Yolla Yuliana adalah atlet voly favorite saya karena didalam penampilan dan cara bermainnya dalam bermain voly sangat terlihat mengagumkan, dah Yolla Yuliana termasuk dalam atlit voly indonesia yang selalu berlaga di acara voly terbesar seperti proliga, sea games dan lebih banya lagi.</item>
+        <item>Dony Haryono adalah atlet voly favorite saya karena didalam penampilan dan cara bermainnya dalam bermain voly sangat terlihat mengagumkan, dah Dony Haryono termasuk dalam atlit voly indonesia yang selalu berlaga di acara voly terbesar seperti proliga, sea games dan lebih banya lagi.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://www.instagram.com/p/BsVGFflHYMT/.jpg</item>
+        <item>https://www.instagram.com/p/BnIpz21Fsdt/.jpg</item>
+        <item>https://www.instagram.com/p/B3eiDaQAlfm.jpg</item>
+        <item>https://www.instagram.com/p/BeVNptMF3ha/.jpg</item>
+        <item>https://www.instagram.com/p/BtM454SDXkV/.jpg</item>
+</string-array>
+</resources>
